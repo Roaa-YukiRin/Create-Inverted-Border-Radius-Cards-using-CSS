@@ -39,3 +39,6 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1256eaaf-75fe-4e7f-b936-04b49cfa6ff4" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/733134cf-a2ef-41a0-bb4a-582afeae4957" />
+
+
+https://roaa-yukirin.github.io/Create-Inverted-Border-Radius-Cards-using-CSS/
